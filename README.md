@@ -7,7 +7,7 @@ I never really intended to release this after I stopped working on it, but with 
 ### Required stuff
 * Deno
 * Creating a self signed cert with the following domains for the client and putting them in the client root
-Etc ./Client/
+Etc ./
   * DNS:	socalifornian.live
   * DNS:	beautiful-lyrics.socalifornian.live
   * DNS:	localhost
